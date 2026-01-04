@@ -34,9 +34,4 @@ landing page for a business coach website.
 To practice layout structure, visual hierarchy, and CTA placement
 for a business-oriented landing page.
 
-## Figma Design Link
-(Add your Figma link here)
-)
 
-## Figma Design Link
-(Add your Figma link here)
